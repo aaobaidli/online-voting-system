@@ -3,17 +3,17 @@
 ## Features
 ### Admin Panel
 
-- Login (API - Authentication / Passport)
+- Login
 - Start Election 
 - View Election Result
 - Stop Election
 - View Election Final Result
-- Position (CRUD)
-- Partylist (CRUD)
-- Voter (CRUD)
-- Nominee (CRUD) (Also Contains Picture, Motto and Description)
+- Position
+- Partylist
+- Voter
+- Nominee 
 - Update Account
-- Manage Account - (Sub Admin Can't access this)
+- Manage Account
 - Logout
 
 ### Voter Panel
